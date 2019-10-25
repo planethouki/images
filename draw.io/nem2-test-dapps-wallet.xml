@@ -1,1 +1,42 @@
-<mxfile host="www.draw.io" modified="2019-10-25T03:24:34.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="f-bNrzwpeNZVkeuddt5n" version="12.1.5" type="github" pages="1"><diagram id="PsSILLIfpSBcQF8E-apF" name="Page-1">1Zddb5swFIZ/jS9XgU3AXEJC2kqb1Krapl1ScIEVMCLOkvTXzwYfPgKJ2osu2Q06vD628Xn8GkBkWexv67BKv/GY5Qgb8R6RFcLYoVhelXBoBct2WyGps7iVzF54yt6YFg2tbrOYbUaJgvNcZNVYjHhZskiMtLCu+W6c9sLz8axVmLCJ8BSF+VT9mcUibVWKnV6/Y1mSwswmrK8IIVmvZJOGMd8NJBIgsqw5F21U7JcsV7WDurT91idauwerWSne0+HuLXmw2Ob2R1z++vq4LV4fHu+/6FH+hPlWLzgr1Zpufm8QtnM5sP9cyyhRkayxkJNtojqrBAoIoiby/CbAiFJQCAR2zAsULBC1EV10+YPuGPlrCAxIcFBAle6vmr4e8qDJXcBcSwh8XVtxAGA135YxU2s25SPv0kywpyqMVOtO7lCppaLIdbNePasF258sq9nBkpuc8YKJ+iBTdAei8R7Gt7t+s5gLraWDjeJqLdT7M+kG7hHKQFP8AFE8ITrCNgu2qSZBrqcDH+rrA1RVcYo8CWOlFUVOcgog2VTxFI+GShVLL0Bu08szIedKoXamvRaq1oTqcxi9Jk1dziI1dECJrq535DiCPBeabOBPoJc7cOX/BNC6NlsuJgArXm2rm2bZ8/QkEAyBBdDIGBFGrsyx1THZ+dB1IFgP7NfaGNyrju0Go2py1Pi+d4bn9/szRI1/QtQ0xkS7L4QhUjyD1P4spPYEaclF9pJFoch4eZKsi6jRHLWOAuTBi7HzE8Vo5vSc4hu+P6XR7Q8BvThO4lwbTueEQ+dO14F3+/PRUp8sPniO2hc/BI8tQ4xL15iet8xcqaeeuuKKH+/qz6y4vO1/Hpq2wR8YCf4C</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-25T09:51:03.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="cYrjMM4z3d49_72KFjH7" version="12.1.5" type="github" pages="2">
+  <diagram id="PsSILLIfpSBcQF8E-apF" name="Page-1">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="HzgP4esGVdnYLQumkPQI-1" value="inpage.js&lt;br&gt;contentscriptによってdom内にscriptタグで追加される" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="150" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="HzgP4esGVdnYLQumkPQI-2" value="contentscript.js&lt;br&gt;ページが読み込まれると実行される" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="30" width="150" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="HzgP4esGVdnYLQumkPQI-4" value="background.js&lt;br&gt;バックグラウンドで実行される&lt;br&gt;popup.htmlやnotification.htmlにアクセスできる" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="30" width="150" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="HzgP4esGVdnYLQumkPQI-5" value="popup.html&lt;br&gt;アイコンを押したときに表示されるUI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HzgP4esGVdnYLQumkPQI-6" value="notification.html&lt;br&gt;通知があるときにタブ表示される" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HzgP4esGVdnYLQumkPQI-7" value="popup.js&lt;br&gt;popup.htmlで使う" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HzgP4esGVdnYLQumkPQI-8" value="notification.js&lt;br&gt;notification.htmlで使う" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ExycctopscG0x4_xv4K_" name="初回登録">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KEgxggyVV-zVqjZpAPit-0"/>
+        <mxCell id="KEgxggyVV-zVqjZpAPit-1" parent="KEgxggyVV-zVqjZpAPit-0"/>
+        <mxCell id="KEgxggyVV-zVqjZpAPit-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
