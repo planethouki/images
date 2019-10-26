@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-25T09:51:03.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="cYrjMM4z3d49_72KFjH7" version="12.1.5" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-10-26T01:29:12.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="J1D3hqtfoBJEctd16kmC" version="12.1.5" type="github" pages="2">
   <diagram id="PsSILLIfpSBcQF8E-apF" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,12 +29,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ExycctopscG0x4_xv4K_" name="初回登録">
-    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KEgxggyVV-zVqjZpAPit-0"/>
         <mxCell id="KEgxggyVV-zVqjZpAPit-1" parent="KEgxggyVV-zVqjZpAPit-0"/>
-        <mxCell id="KEgxggyVV-zVqjZpAPit-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
-          <mxGeometry x="80" y="160" width="120" height="60" as="geometry"/>
+        <mxCell id="0pkeaASxhoelMZrvmbTv-1" value="アカウントはあるか？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="60" y="160" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="0pkeaASxhoelMZrvmbTv-2" value="起動" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="70" y="20" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="0pkeaASxhoelMZrvmbTv-3" value="アカウント入力画面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="70" y="290" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="0pkeaASxhoelMZrvmbTv-4" value="パスワード入力画面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="250" y="180" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="0pkeaASxhoelMZrvmbTv-5" value="アカウント画面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="70" y="440" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="0pkeaASxhoelMZrvmbTv-8" value="ページ読み込み" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="510" y="20" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="0pkeaASxhoelMZrvmbTv-10" value="アカウントはあるか？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="510" y="170" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="0pkeaASxhoelMZrvmbTv-11" value="ログイン済みか？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="510" y="340" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="0pkeaASxhoelMZrvmbTv-12" value="nem2インジェクション" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="KEgxggyVV-zVqjZpAPit-1">
+          <mxGeometry x="510" y="480" width="100" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
