@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-30T12:34:10.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ps61COdXbw-9o36wwCOn" version="12.3.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-30T13:06:42.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="SEPps1tFMbepSmCh_WpI" version="12.3.3" type="github" pages="3">
   <diagram id="PsSILLIfpSBcQF8E-apF" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         <mxCell id="dB6qLxnFXBgeao5Pum41-19" value="chrome.extension.getBackgroundPage" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=11;" edge="1" parent="dB6qLxnFXBgeao5Pum41-1" source="dB6qLxnFXBgeao5Pum41-17" target="dB6qLxnFXBgeao5Pum41-5">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="dB6qLxnFXBgeao5Pum41-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;background.js&lt;/font&gt;&lt;br&gt;sign, send tx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dB6qLxnFXBgeao5Pum41-1">
+        <mxCell id="dB6qLxnFXBgeao5Pum41-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;popup.html&lt;br&gt;&lt;/font&gt;popup.js&lt;br&gt;sign, send tx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dB6qLxnFXBgeao5Pum41-1">
           <mxGeometry x="510" y="310" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
